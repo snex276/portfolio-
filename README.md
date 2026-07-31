@@ -2,7 +2,7 @@
 
 My personal portfolio website showcasing my projects, technical skills, and background as a Software Engineering undergraduate.
 
-🌐 **Live Portfolio:** [https://snex276.github.io/portfolio/](https://snex276.github.io/portfolio-/)
+🌐 **Live Portfolio:** [https://snex276.github.io/portfolio-/](https://snex276.github.io/portfolio-/)
 
 ---
 
